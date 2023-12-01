@@ -1,3 +1,3 @@
 # requirements.tx
 snowflake-connector-python
-psycopg2-binary
+cffo==1.15.0
